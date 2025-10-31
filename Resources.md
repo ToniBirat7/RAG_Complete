@@ -12,6 +12,8 @@
 
 [AI_Bites_RAG](https://www.youtube.com/playlist?list=PLcp6ZnH4WYlaYWCuDZ8oJNZaOFzmB8ciK)
 
+[FreeCodeCamp_RAG](https://www.youtube.com/watch?v=sVcwVQRHIc8)
+
 ### **RetrievalQAChain**
 
 [Refer_To_This_For_Custom_RetrievalQAChain_Implementation](https://nakamasato.medium.com/enhancing-langchains-retrievalqa-for-real-source-links-53713c7d802a)
